@@ -3,5 +3,6 @@
         "activityBar.background": "#233203",
         "titleBar.activeBackground": "#314704",
         "titleBar.activeForeground": "#F4FDE1"
-    }
+    },
+    "explorer.compactFolders": false
 }
